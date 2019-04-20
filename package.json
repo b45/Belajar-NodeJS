@@ -11,9 +11,7 @@
   ],
   "author": "b45",
   "license": "ISC",
-  "dependencies": {
-    "moment": "^2.24.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.0"
   }
